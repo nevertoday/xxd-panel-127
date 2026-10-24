@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 127｜Mixed-media Architectural Collage: turns the key subject of a photo into a small conceptual collage like an architect's study sheet, built from photo cut-outs, old-magazine fragments, muted paper blocks, translucent paper and material swatches with a few structural lines, arrows, circles and handwritten notes, on warm white paper with grain and cut edges, in 2–4 muted colours from the photo, a tiny focal point in a large empty field and small note-like text. Non-photorealistic, not a render. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-127 or asks for architectural collage, photomontage, design-research or interior mood-board style images from a photo.",
+  "short_description": "建筑混媒拼贴志：把照片做成建筑师研究笔记般的微缩拼贴，带结构线和手写批注",
+  "zh-CN": {
+    "name": "建筑混媒拼贴志",
+    "tagline": "把照片做成一张像建筑师研究笔记的小型拼贴，带几条结构线和手写批注。",
+    "look": "主体变成一小块概念拼贴：照片剪片、旧杂志图像碎片、低饱和纸色块、半透明纸和材料小样叠在一起，再加几条结构线、箭头、圈注和手写批注，像建筑师的草图或设计研究笔记，而不是效果图。底子是暖白或象牙白纸，看得到纸张颗粒、剪贴边缘和印刷磨损。颜色从照片取 2–4 种，以米白、浅灰、淡褐、蓝灰、赭黄、陶土为主。主体很小，四周是大片空场，文字只有几条小号的注释式短句。",
+    "traits": [
+      "微缩建筑拼贴",
+      "照片剪片与材料样本",
+      "半透明纸",
+      "结构线与研究注释",
+      "低饱和空场"
+    ],
+    "good": [
+      "建筑、街角和室内：一栋老房子、楼梯间、咖啡馆一角、一扇窗",
+      "空间感和材质明显的照片：砖墙、木地板、混凝土、玻璃和植物",
+      "想放进作品集、设计研究或空间概念板的照片"
+    ],
+    "poor": [
+      "以表情为主的人像、宠物特写，拼贴会冲淡神态",
+      "需要写实效果图或 3D 渲染的需求",
+      "想要鲜艳、满版或卡通感的画面"
+    ]
+  },
+  "en": {
+    "name": "Mixed-media Architectural Collage",
+    "tagline": "Turns your photo into a small collage like an architect's study sheet, with a few structural lines and handwritten notes.",
+    "look": "The subject becomes a small conceptual collage: photo cut-outs, old-magazine fragments, muted paper blocks, translucent paper and material swatches layered together, plus a few structural lines, arrows, circled marks and handwritten notes, like an architect's sketch or research notebook rather than a polished render. The ground is warm white or ivory paper with visible grain, cut edges and worn print. Two to four colours come from the photo, leaning on off-white, light grey, pale brown, blue-grey, ochre and terracotta. The subject is tiny inside a large empty field, and the text is just a few small, note-like lines.",
+    "traits": [
+      "Miniature architectural collage",
+      "Photo cut-outs and material swatches",
+      "Translucent paper",
+      "Structural lines and study notes",
+      "Muted empty field"
+    ],
+    "good": [
+      "Buildings, street corners and interiors: an old house, a stairwell, a corner of a café, a window",
+      "Photos with a strong sense of space and material: brick, wooden floors, concrete, glass and plants",
+      "Photos for a portfolio, design study or spatial concept board"
+    ],
+    "poor": [
+      "Expression-led portraits or pet close-ups, where the collage dilutes the face",
+      "Requests for a realistic architectural render or 3D visualisation",
+      "Requests for a bright, full-frame or cartoon-like picture"
+    ]
+  },
+  "ja": {
+    "name": "建築ミクストメディア・コラージュ",
+    "tagline": "写真を建築家の研究ノートのような小さなコラージュにし、構造線と手書きのメモを添えます。",
+    "look": "主役は小さなコンセプトコラージュになります。写真の切り抜き、古い雑誌の図版の断片、彩度を抑えた色紙、半透明の紙、素材サンプルを重ね、構造線、矢印、丸囲み、手書きの注記を少しだけ加えます。仕上がったパースではなく、建築家のスケッチや設計リサーチのノートのような見た目です。下地は温かい白かアイボリーの紙で、紙の粒子、切り貼りの縁、刷りのかすれが見えます。色は写真から 2〜4 色を取り、生成り、薄いグレー、淡い茶、青みのグレー、黄土、テラコッタが中心です。主役はごく小さく、周りに大きな空き。文字は小さな注記のような短い言葉が数行だけです。",
+    "traits": [
+      "ミニチュア建築コラージュ",
+      "写真の切り抜きと素材サンプル",
+      "半透明の紙",
+      "構造線と研究メモ",
+      "低彩度の空き"
+    ],
+    "good": [
+      "建物、街角、室内：古い家、階段室、カフェの一角、一つの窓",
+      "空間や素材感がはっきりした写真：れんが壁、木の床、コンクリート、ガラスと植物",
+      "ポートフォリオ、設計リサーチ、空間のコンセプトボードに使いたい写真"
+    ],
+    "poor": [
+      "表情が主役の人物写真やペットのアップ（コラージュで表情が薄れます）",
+      "写実的な建築パースや 3D レンダリングを求める場合",
+      "鮮やか、全面を埋める、アニメ調の絵を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "혼합 매체 건축 콜라주",
+    "tagline": "사진을 건축가의 연구 노트 같은 작은 콜라주로 만들고 구조선 몇 개와 손글씨 메모를 더합니다.",
+    "look": "주인공은 작은 개념 콜라주가 됩니다. 사진 오려 낸 조각, 옛 잡지 이미지 파편, 채도 낮은 색종이 면, 반투명 종이, 재료 샘플을 겹치고, 구조선과 화살표, 동그라미 표시, 손글씨 메모를 조금 더합니다. 완성된 투시도가 아니라 건축가의 스케치나 설계 연구 노트처럼 보입니다. 바탕은 따뜻한 흰색이나 상아색 종이로, 종이 결과 오린 가장자리, 닳은 인쇄 자국이 보입니다. 색은 사진에서 2~4가지를 골라 미색, 연회색, 옅은 갈색, 청회색, 황토, 테라코타를 중심으로 씁니다. 주인공은 아주 작고 주변은 넓은 빈 공간이며, 글은 작은 메모 같은 짧은 문장 몇 줄뿐입니다.",
+    "traits": [
+      "미니어처 건축 콜라주",
+      "사진 조각과 재료 샘플",
+      "반투명 종이",
+      "구조선과 연구 메모",
+      "채도 낮은 빈 공간"
+    ],
+    "good": [
+      "건물, 골목 모퉁이, 실내: 오래된 집, 계단실, 카페 한쪽, 창문 하나",
+      "공간감과 재질이 뚜렷한 사진: 벽돌 벽, 나무 바닥, 콘크리트, 유리와 식물",
+      "포트폴리오, 설계 연구, 공간 콘셉트 보드에 넣고 싶은 사진"
+    ],
+    "poor": [
+      "표정이 중심인 인물 사진이나 반려동물 클로즈업(콜라주가 표정을 흐립니다)",
+      "사실적인 건축 투시도나 3D 렌더링을 원하는 경우",
+      "화려하거나 화면을 꽉 채운, 만화 같은 그림을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج معماري بوسائط مختلطة",
+    "tagline": "يحوّل صورتك إلى كولاج صغير يشبه ورقة دراسة معمارية، مع بضعة خطوط إنشائية وملاحظات بخط اليد.",
+    "look": "يصير العنصر كولاجاً مفاهيمياً صغيراً: قصاصات من الصورة وشظايا من مجلات قديمة ومساحات ورق خافتة الألوان وورق شفاف وعيّنات مواد متراكبة، مع بضعة خطوط إنشائية وأسهم ودوائر تحديد وملاحظات بخط اليد، فيبدو كمسودة معماري أو دفتر بحث تصميمي لا كمنظور نهائي مصقول. الأرضية ورق أبيض دافئ أو عاجي تظهر فيه الحبيبات وحواف القص وأثر الطباعة الباهتة. تُؤخذ من الصورة اثنان إلى أربعة ألوان تميل إلى الأبيض الكريمي والرمادي الفاتح والبني الباهت والرمادي المزرق والمغرة والطين المحروق. العنصر صغير جداً وسط مساحة فارغة كبيرة، والنص بضعة أسطر صغيرة على هيئة ملاحظات.",
+    "traits": [
+      "كولاج معماري مصغّر",
+      "قصاصات صور وعيّنات مواد",
+      "ورق شفاف",
+      "خطوط إنشائية وملاحظات دراسية",
+      "فراغ خافت الألوان"
+    ],
+    "good": [
+      "مبانٍ وزوايا شوارع وأماكن داخلية: بيت قديم، بيت درج، ركن في مقهى، نافذة",
+      "صور فيها إحساس قوي بالمكان والمادة: جدار طوب، أرضية خشبية، خرسانة، زجاج ونباتات",
+      "صور لملف أعمال أو دراسة تصميمية أو لوحة مفاهيم مكانية"
+    ],
+    "poor": [
+      "صور شخصية قائمة على التعبير أو لقطات مقرّبة للحيوانات الأليفة، إذ يُضعف الكولاج الملامح",
+      "طلب منظور معماري واقعي أو تصوّر ثلاثي الأبعاد",
+      "طلب صورة زاهية أو ممتلئة الإطار أو كرتونية"
+    ]
+  }
+}
